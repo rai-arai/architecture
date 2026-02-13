@@ -38,7 +38,7 @@ decisions — choices about how Arai is built and maintained.
 4. **Submit a merge request** with your proposal at `adrs/XXXX-title-slug.md`.
 5. **Address review feedback** from technical leads and the community.
 6. **Merge when accepted** — ADRs use lazy consensus (see the
-   [handbook](https://handbook.omnifi.coop/engineering/architecture/adrs/) for
+   [handbook](https://handbook.omnifi.coop/engineering/architecture/governance/) for
    details).
 
 ## Submitting a request for comments
@@ -70,8 +70,8 @@ changes that affect how people use Arai.
 Use lowercase with hyphens. Combine the four-digit number with a descriptive
 slug:
 
-- Architecture decision records: `adrs/0001-use-wasmtime-for-agent-sandbox.md`
-- Requests for comments: `rfcs/0001-agent-card-discovery-protocol.md`
+- Architecture decision records: `decisions/0001-use-wasmtime-for-agent-sandbox.md`
+- Requests for comments: `comments/0001-agent-card-discovery-protocol.md`
 
 See the [numbering scheme](https://handbook.omnifi.coop/engineering/architecture/numbering/)
 in the handbook for full details.
